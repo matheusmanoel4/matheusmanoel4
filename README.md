@@ -21,7 +21,7 @@ Busco constantemente melhorar minhas habilidades técnicas e comportamentais, co
 - Criação de relatórios detalhados de testes
 
 ### 🧰 Ferramentas & Tecnologias
-- **Automação**: Robot Framework, Selenium, Appium, Playwright, Cypress, UiPath, PyAutoGUI
+- **Automação**: Robot Framework, Selenium, Appium, Cypress, UiPath, PyAutoGUI
 - **Linguagens**: Python, JavaScript
 - **Testes de API**: Postman
 - **Controle de versão**: Git, GitHub
@@ -44,7 +44,7 @@ Busco constantemente melhorar minhas habilidades técnicas e comportamentais, co
 
 ### 🔹 Estagiário de QA – Mkdata Softwares (Set/24 – Mar/25)
 - Execução de testes funcionais em sistema ERP baseado em requisitos técnicos e de negócio
-- Automação de testes com Robot Framework e Selenium
+- Automação de testes com Robot Framework, Selenium, Uipath e PyAutoGUI
 - Testes de regressão e análise de impacto
 - Geração de relatórios e documentação de falhas
 - Participação ativa em reuniões ágeis (Scrum, Daily)
@@ -57,6 +57,7 @@ Busco constantemente melhorar minhas habilidades técnicas e comportamentais, co
 
 ## 🚀 Em evolução...
 
+- Praticando automação com playwright
 - Aprendendo mais sobre testes de API, CI/CD e DevOps  
 - Praticando automação com Playwright e Cypress  
 - Explorando integrações de ferramentas e frameworks de testes  
